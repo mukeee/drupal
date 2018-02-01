@@ -1,0 +1,12 @@
+#!/bin/sh
+LD_LIBRARY_PATH=/opt/drupal-7.56-3/mysql/lib:/opt/drupal-7.56-3/mysql/../common/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH
+case "$@" in
+  *--no-defaults*)
+    exec $0.bin "$@"
+    ;;
+  *--defaults-extra-file*)
+    exec $0.bin "$@"
+    ;;
+esac
+exec $0.bin --defaults-file=/opt/drupal-7.56-3/mysql/my.cnf "$@"

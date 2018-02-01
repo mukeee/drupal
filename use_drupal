@@ -1,0 +1,8 @@
+#!/bin/sh
+
+PATH="/opt/drupal-7.56-3/apps/drupal/drush:/opt/drupal-7.56-3/sqlite/bin:/opt/drupal-7.56-3/php/bin:/opt/drupal-7.56-3/mysql/bin:/opt/drupal-7.56-3/apache2/bin:/opt/drupal-7.56-3/common/bin:$PATH"
+BITNAMI_ROOT="/opt/drupal-7.56-3"
+export BITNAMI_ROOT
+
+
+exec /bin/bash --noprofile --norc

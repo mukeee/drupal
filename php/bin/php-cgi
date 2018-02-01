@@ -1,0 +1,6 @@
+#!/bin/sh
+PHPRC=/opt/drupal-7.56-3/php/etc
+export PHPRC
+
+. /opt/drupal-7.56-3/php/../scripts/setenv.sh
+exec /opt/drupal-7.56-3/php/bin/php-cgi.bin "$@"

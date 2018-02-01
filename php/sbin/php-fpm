@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /opt/drupal-7.56-3/scripts/setenv.sh
+
+exec /opt/drupal-7.56-3/php/sbin/.php-fpm.bin -y /opt/drupal-7.56-3/php/etc/php-fpm.conf -p /opt/drupal-7.56-3/php/var/ -c /opt/drupal-7.56-3/php/etc/php.ini "$@"

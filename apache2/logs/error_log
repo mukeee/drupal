@@ -1,0 +1,49 @@
+[Wed Jan 24 12:50:39.927688 2018] [ssl:warn] [pid 9952] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 24 12:50:39.975264 2018] [ssl:warn] [pid 9953] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 24 12:50:39.991839 2018] [mpm_prefork:notice] [pid 9953] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Wed Jan 24 12:50:39.991877 2018] [core:notice] [pid 9953] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Wed Jan 24 12:50:49.568527 2018] [mpm_prefork:notice] [pid 9953] AH00169: caught SIGTERM, shutting down
+[Wed Jan 24 12:50:52.052947 2018] [ssl:warn] [pid 12585] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 24 12:50:52.099678 2018] [ssl:warn] [pid 12586] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 24 12:50:52.113600 2018] [mpm_prefork:notice] [pid 12586] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Wed Jan 24 12:50:52.113634 2018] [core:notice] [pid 12586] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Wed Jan 24 12:53:12.514303 2018] [mpm_prefork:notice] [pid 12586] AH00169: caught SIGTERM, shutting down
+[Wed Jan 24 12:53:15.134861 2018] [ssl:warn] [pid 12883] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 24 12:53:15.181486 2018] [ssl:warn] [pid 12884] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 24 12:53:15.194641 2018] [mpm_prefork:notice] [pid 12884] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Wed Jan 24 12:53:15.194678 2018] [core:notice] [pid 12884] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Wed Jan 24 13:01:44.086700 2018] [mpm_prefork:notice] [pid 12884] AH00169: caught SIGTERM, shutting down
+[Thu Jan 25 10:49:32.210387 2018] [ssl:warn] [pid 7503] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 25 10:49:32.270647 2018] [ssl:warn] [pid 7504] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 25 10:49:32.573461 2018] [mpm_prefork:notice] [pid 7504] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Thu Jan 25 10:49:32.573492 2018] [core:notice] [pid 7504] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Thu Jan 25 13:02:53.650463 2018] [mpm_prefork:notice] [pid 7504] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 10:27:12.549557 2018] [ssl:warn] [pid 23535] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 10:27:12.609388 2018] [ssl:warn] [pid 23536] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 10:27:12.973410 2018] [mpm_prefork:notice] [pid 23536] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Fri Jan 26 10:27:12.973444 2018] [core:notice] [pid 23536] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Fri Jan 26 13:01:37.669340 2018] [mpm_prefork:notice] [pid 23536] AH00169: caught SIGTERM, shutting down
+[Tue Jan 30 10:33:25.223140 2018] [ssl:warn] [pid 5444] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 30 10:33:25.282987 2018] [ssl:warn] [pid 5445] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 30 10:33:25.555594 2018] [mpm_prefork:notice] [pid 5445] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Tue Jan 30 10:33:25.555639 2018] [core:notice] [pid 5445] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Tue Jan 30 13:07:37.236061 2018] [mpm_prefork:notice] [pid 5445] AH00169: caught SIGTERM, shutting down
+[Wed Jan 31 11:41:27.081511 2018] [ssl:warn] [pid 5477] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 31 11:41:27.150676 2018] [ssl:warn] [pid 5478] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 31 11:41:27.404342 2018] [mpm_prefork:notice] [pid 5478] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Wed Jan 31 11:41:27.404375 2018] [core:notice] [pid 5478] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Wed Jan 31 12:55:27.625319 2018] [mpm_prefork:notice] [pid 5478] AH00169: caught SIGTERM, shutting down
+[Thu Feb 01 10:34:47.420673 2018] [ssl:warn] [pid 3180] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 01 10:34:47.491238 2018] [ssl:warn] [pid 3181] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 01 10:34:47.827062 2018] [mpm_prefork:notice] [pid 3181] AH00163: Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.0.26 configured -- resuming normal operations
+[Thu Feb 01 10:34:47.827099 2018] [core:notice] [pid 3181] AH00094: Command line: '/opt/drupal-7.56-3/apache2/bin/httpd.bin -f /opt/drupal-7.56-3/apache2/conf/httpd.conf'
+[Thu Feb 01 10:38:58.023252 2018] [:error] [pid 3412] [client 127.0.0.1:52102] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; views_many_to_one_helper has a deprecated constructor in /opt/drupal-7.56-3/apps/drupal/htdocs/sites/all/modules/views/includes/handlers.inc on line 753, referer: http://localhost:81/drupal/admin/modules/list/confirm
+[Thu Feb 01 10:39:00.663263 2018] [:error] [pid 3412] [client 127.0.0.1:52102] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; views_display has a deprecated constructor in /opt/drupal-7.56-3/apps/drupal/htdocs/sites/all/modules/views/includes/view.inc on line 2553, referer: http://localhost:81/drupal/admin/modules/list/confirm
+sh: 1: /usr/bin/sendmail: not found
+sh: 1: /usr/bin/sendmail: not found
+sh: 1: /usr/bin/sendmail: not found
+sh: 1: /usr/bin/sendmail: not found
+sh: 1: /usr/bin/sendmail: not found
+sh: 1: /usr/bin/sendmail: not found
+sh: 1: /usr/bin/sendmail: not found
+sh: 1: /usr/bin/sendmail: not found
